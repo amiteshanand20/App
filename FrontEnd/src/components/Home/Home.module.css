@@ -1,0 +1,17 @@
+.home {
+  margin:7rem auto;
+  padding: 3rem;
+  width: 90%;
+  max-width: 40rem; 
+  text-align: center;  
+}
+
+
+
+.container {
+  margin:7rem auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem; 
+  text-align: center;  
+}

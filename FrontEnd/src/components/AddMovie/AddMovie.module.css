@@ -1,0 +1,37 @@
+.container {
+    margin:7rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem; 
+    text-align: center;  
+  }
+
+  .control {
+    margin: 1rem 0;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    text-align: left; 
+
+  }
+
+  .control label {
+    font-weight: bold;
+    flex: 1;
+    color: #464646;
+    margin-bottom: 0.5rem;
+  }
+  
+  .control input {
+    flex: 3;
+    font: inherit;
+    padding: 0.35rem 0.35rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+
+
+.add {
+    text-align: right;
+  }
+  
